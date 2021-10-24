@@ -1,0 +1,23 @@
+.BG {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 95%;
+  height: 600px;
+  margin: 50px auto;
+  margin-top: 0px;
+  padding: 5px;
+  background-color: #FE0065;
+  border-radius: 10px;
+  box-shadow: 0 14px 45px rgba(0, 0, 0, 0.22), 0 18px 45px rgba(0, 0, 0, 0.473);
+}
+.App {
+  background-color: royalblue;
+  width: 100%;
+  height: 676px;
+}
+h2 {
+  color:black;
+  display: inline;
+  font-size: 30px;
+}

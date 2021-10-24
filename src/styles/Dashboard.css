@@ -1,0 +1,13 @@
+.Dashboard {
+background: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9416a44-2c51-4384-9116-527fd97b2601/d419hhm-4a1ea195-06c3-464b-af45-271d9d57b44c.png/v1/fill/w_1255,h_637,q_70,strp/temeraire_world_map_by_amcalmaron_d419hhm-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAxNSIsInBhdGgiOiJcL2ZcL2M5NDE2YTQ0LTJjNTEtNDM4NC05MTE2LTUyN2ZkOTdiMjYwMVwvZDQxOWhobS00YTFlYTE5NS0wNmMzLTQ2NGItYWY0NS0yNzFkOWQ1N2I0NGMucG5nIiwid2lkdGgiOiI8PTIwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qeHqkhH0UQzX2tlZbsqLb1INqXNzbOyU8lWp2Hgoff8');
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 100%;
+}
+h1 {
+    background-color:black;
+    color:antiquewhite;
+    display: inline;
+    margin-left:40%;
+}
